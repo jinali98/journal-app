@@ -31,6 +31,7 @@ Mobile responsive
 </br>
 </br>
 
+![addPage](https://user-images.githubusercontent.com/68109485/114334640-9f830500-9b68-11eb-9f0e-fedc861c8676.PNG)
 
 ![theme2](https://user-images.githubusercontent.com/68109485/114334258-d278c900-9b67-11eb-9ad5-9ab36b4ac04a.PNG)
 
