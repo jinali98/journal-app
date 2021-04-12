@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title></title>
+  </head>
+  <body onload="displayTodo()">
+    <div class="nav-container">
+      <h1 class="heading">My Journal</h1>
+      <div class="themes">
+        <div class="theme theme1"></div>
+        <div class="theme theme2"></div>
+        <div class="theme theme3"></div>
+      </div>
+    </div>
+    <div class="container main-container">
+      <div class="get-new-page">
+        <button class="get-page-button">Add Page</button>
+
+        <h3 class="current-day" id="current-day"></h3>
+      </div>
+      <div id="display" class="display">
+        <div class="newPage page" id="newPage">
+          <!-- here goes the pages -->
+        </div>
+      </div>
+    </div>
+
+    <div class="new-page-add-content modal-bg" id="newPageAddContent">
+      <div class="add-content modal">
+        <h3 class="page-heading">New Page</h3>
+        <div id="error">
+          <!-- here goes the error message -->
+        </div>
+
+        <div class="getTexts">
+          <input
+            type="text"
+            name=""
+            id="textTitle"
+            placeholder="Your Page Title"
+            required
+          />
+          <textarea
+            type="text"
+            rows="10"
+            cols="50"
+            name=""
+            id="textContent"
+            placeholder="Your Page Content"
+            required
+          ></textarea>
+        </div>
+        <button type="submit" id="add">Create</button>
+        <span class="close">x</span>
+      </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
