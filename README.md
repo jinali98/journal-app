@@ -30,12 +30,10 @@ Mobile responsive
 
 </br>
 </br>
-![mobile](https://user-images.githubusercontent.com/68109485/114334005-4ff00980-9b67-11eb-8792-25c9b9518aad.PNG)
-</br>
-</br>
-![theme2](https://user-images.githubusercontent.com/68109485/114334027-5aaa9e80-9b67-11eb-95ab-f55636d985d3.PNG)
-</br>
-</br>
-![theme3](https://user-images.githubusercontent.com/68109485/114334034-5c746200-9b67-11eb-8f70-fd819a73e199.PNG)
+![theme3](https://user-images.githubusercontent.com/68109485/114334250-cdb41500-9b67-11eb-871d-39dbd6be4e46.PNG)
+
+![theme2](https://user-images.githubusercontent.com/68109485/114334258-d278c900-9b67-11eb-9ad5-9ab36b4ac04a.PNG)
+
+![mobile](https://user-images.githubusercontent.com/68109485/114334256-d1479c00-9b67-11eb-9f39-c85d78cf4bec.PNG)
 </br>
 </br>
