@@ -30,7 +30,7 @@ Mobile responsive
 
 </br>
 </br>
-![theme3](https://user-images.githubusercontent.com/68109485/114334250-cdb41500-9b67-11eb-871d-39dbd6be4e46.PNG)
+
 
 ![theme2](https://user-images.githubusercontent.com/68109485/114334258-d278c900-9b67-11eb-9ad5-9ab36b4ac04a.PNG)
 
